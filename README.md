@@ -1,2 +1,3 @@
 # bp-strict-public
-Strict baseline — every branch protection rule should PASS.
+
+Strict baseline. Every branch-protection rule should PASS.
